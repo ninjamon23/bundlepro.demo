@@ -1,0 +1,311 @@
+{
+	"BundlePro": {
+		"Folder": [
+			{
+				"text": "Folder 1",
+				"type": "folder",
+				"children": [
+					{
+						"text": "Folder 1 - Document 1",
+						"type": "file",
+						"hidden": "true"
+					},
+					{
+						"text": "Folder 1 - Document 2",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 3",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 4",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 5",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 6",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 7",
+						"type": "file"
+					},
+					{
+						"text": "Folder 1 - Document 8",
+						"type": "file"
+					},
+					{
+						"text": "Nested Folder 1.1",
+						"type": "folder",
+						"children": [
+							{
+								"text": "Nested Folder 1.1 - Document 1",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 2",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 3",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 4",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 5",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 6",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 7",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1 - Document 8",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 1.1.1",
+								"type": "folder",
+								"children": [
+									{
+										"text": "Nested Folder 1.1.1 - Document 1",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 2",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 3",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 4",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 5",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 6",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 7",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 1.1.1 - Document 8",
+										"type": "file"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"text": "Folder 2",
+				"type": "folder",
+				"children": [
+					{
+						"text": "Folder 2 - Document 1",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 2",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 3",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 4",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 5",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 6",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 7",
+						"type": "file"
+					},
+					{
+						"text": "Folder 2 - Document 8",
+						"type": "file"
+					},
+					{
+						"text": "Nested Folder 2.1",
+						"type": "folder",
+						"children": [
+							{
+								"text": "Nested Folder 2.1 - Document 1",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 2",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 3",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 4",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 5",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 12.1 - Document 6",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 7",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1 - Document 8",
+								"type": "file"
+							},
+							{
+								"text": "Nested Folder 2.1.1",
+								"type": "folder",
+								"children": [
+									{
+										"text": "Nested Folder 2.1.1 - Document 1",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 2",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 3",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 4",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 5",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 6",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 7",
+										"type": "file"
+									},
+									{
+										"text": "Nested Folder 2.1.1 - Document 8",
+										"type": "file"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"text": "Folder 3",
+				"type": "folder",
+				"children":[
+					{
+						"text": "Folder 3 - Document 1",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 2",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 3",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 4",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 5",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 6",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 7",
+						"type": "file"
+					},
+					{
+						"text": "Folder 3 - Document 8",
+						"type": "file"
+					}
+				]
+			},
+			{
+				"text": "Folder 4",
+				"type": "folder",
+				"children":[
+					{
+						"text": "Folder 4 - Document 1",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 2",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 3",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 4",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 5",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 6",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 7",
+						"type": "file"
+					},
+					{
+						"text": "Folder 4 - Document 8",
+						"type": "file"
+					}
+				]
+			}
+		]
+	}
+}
